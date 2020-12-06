@@ -1,0 +1,10 @@
+C:\Users\Mustafa Can ŞAHİNBAŞ\Source\Repos\SinemaRezervasyon\SinemaRezervasyon\bin\Debug\SinemaRezervasyon.exe.config
+C:\Users\Mustafa Can ŞAHİNBAŞ\Source\Repos\SinemaRezervasyon\SinemaRezervasyon\bin\Debug\SinemaRezervasyon.exe
+C:\Users\Mustafa Can ŞAHİNBAŞ\Source\Repos\SinemaRezervasyon\SinemaRezervasyon\bin\Debug\SinemaRezervasyon.pdb
+C:\Users\Mustafa Can ŞAHİNBAŞ\Source\Repos\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.csprojAssemblyReference.cache
+C:\Users\Mustafa Can ŞAHİNBAŞ\Source\Repos\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.Properties.Resources.resources
+C:\Users\Mustafa Can ŞAHİNBAŞ\Source\Repos\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.csproj.GenerateResource.cache
+C:\Users\Mustafa Can ŞAHİNBAŞ\Source\Repos\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa Can ŞAHİNBAŞ\Source\Repos\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.exe
+C:\Users\Mustafa Can ŞAHİNBAŞ\Source\Repos\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.pdb
+C:\Users\Mustafa Can ŞAHİNBAŞ\Source\Repos\SinemaRezervasyon\SinemaRezervasyon\obj\Debug\SinemaRezervasyon.AnaMenü.resources
